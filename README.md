@@ -17,7 +17,7 @@ Neste notebook, construí toda a arquitetura de aprendizado sem o uso de framewo
 ## 📊 Resultados e Curva de Aprendizado
 O modelo foi treinado por 10.000 épocas. Graças ao acúmulo de gradientes e à taxa de aprendizagem configurada, a Média do Erro Absoluto (Função de Custo) convergiu com sucesso, provando que a rede mapeou o espaço não-linear do problema.
 
-*(Adicione aqui a imagem do seu gráfico gerado na Célula 6)*
+*(Imagem do gráfico)*
 
 ## 🛠️ Tecnologias Utilizadas
 * Python 3
